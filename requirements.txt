@@ -1,0 +1,8 @@
+numpy
+scipy
+sympy
+matplotlib
+ipywidgets
+pip
+jupyterlab-widgets 
+jupyter-lsp
